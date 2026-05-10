@@ -1,0 +1,4 @@
+project_id = "cplajjmgovwudktljqgs"
+
+[functions.meetings]
+verify_jwt = false
